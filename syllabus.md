@@ -1,5 +1,5 @@
-# CIS 162 - Computer Science I - Fall 2025 (Online Asynchronous)
-# Section 70
+# CIS 162 - Computer Science I - Winter 2026 (Online Class)
+# Section 30
 # GVSU College of Computing
 
 ## Instructor Information
@@ -8,7 +8,14 @@ Instructor: Talha Khan
 
 Email: talhakhan@gvsu.edu
 
-Office Hours: Wednesday 4PM - 5PM
+Office Hours: Wednesday 4PM - 5PM or by appointment (Zoom link posted on Blackboard)
+
+
+## Class Information
+
+Lecture Meeting Times: Online asynchronus (Will be uploaded to Blackboard every week)
+
+Lab Meeting Times: Tuesday 4PM - 5:50PM Online Synchronus (Zoom Link Posted on BlackBoard)
 
 
 ## Disclaimer
@@ -45,9 +52,9 @@ After completing this course, students should be able to:
 
 ## Learning Management System
 
-Course documents, videos, assignments, grades, links, and announcements will be posted to Blackboard.  
+Lecture vidoes and videos, assignments, grades, links, and announcements will be posted to Blackboard.  
 
-Labs and projects will be posted and completed on PrairieLearn. It is your responsibility to stay informed.
+Lab Assigments, course projects,  will be posted and completed on PrairieLearn. It is your responsibility to stay informed.
 
 ## Programming Language and IDE
 
@@ -61,7 +68,7 @@ Our main e-textbook is “Python Crash Course, 3rd Edition” by Eric Matthes.  
 
 ## Lab Activities
 
-Our class is structured as a fully online, asynchronous course. Instead of meeting in a physical lab each week, you will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
+The labs for this class are going to be held online in a synchronus manner. Instead of meeting in a physical lab each week, you will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
 
 ## Programming Projects
 
@@ -72,16 +79,16 @@ While a certain amount of consultation between students working on a project is 
 
 ## Midterm Exams
 
-You will complete two midterm exams online, asynchronously. These exams are designed to assess your understanding of key concepts and your ability to apply problem-solving skills. Each exam will be available within a specified time window, and you must complete it by the posted deadline.
+You will complete two midterm exams, online asynchronously, that will be posted on Blackboard. These exams are designed to assess your understanding of key concepts and your ability to apply problem-solving skills. Each exam will be available within a specified time window, and you must complete it by the posted deadline.
 
 ## Lab Exam
 
-You will complete a lab exam towards the end of the term.  This is your opportunity to demonstrate your abilities working alone at a computer during the regularly scheduled lab session.  The lab exam is open notes and open book.
+You will complete a lab exam towards the end of the term on PrairieLearn.  This is your opportunity to demonstrate your abilities working alone at a computer during the regularly scheduled lab session.  The lab exam is open notes and open book.
 
 
 ## Final Exam
 
-The final exam will be available on Saturday, December 6th, from 9:00AM - 3PM (EST). You must complete and submit the exam within that window to receive credit.
+Similar to the midterm exams, you will have to complete a final exam, online asynchronously, that will be posted on Blackboard. You must complete and submit the exam within a specified time window to receive credit.
 
 ## Course Policies
 
@@ -102,9 +109,9 @@ The final exam will be available on Saturday, December 6th, from 9:00AM - 3PM (E
 | Final Exam | 15% |
 | In Class Activities | 10% |
 
-# Grading Scale
+## Grading Scale
 
-> You must earn a combined average of at least 60% on the four exams (midterms, lab and final) to pass the course.
+> You must earn a combined average of at least 60% on the four exams (midterms, lab and final) to pass the course. Please see below the grading scale. Although in the past
 
 |          |          |          |          |
 |----------|----------|----------|----------|
