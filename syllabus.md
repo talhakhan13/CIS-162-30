@@ -100,12 +100,8 @@ Similar to the midterm exams, you will have to complete a final exam, online asy
 - Most computing majors require you to take CIS 163 to advance in the degree. To take CIS 163, you must pass CIS 162 with a C grade or better. In CIS 162, you must earn a combined average of at least 60% between the midterm exams, lab exam and final exam to earn a C in the course. Averaging below a 60% on the exams means that your final grade cannot be higher than a C-. 
 - You are allowed (and encouraged) to work with a partner on the labs and projects. When working with a partner, you are allowed to actively collaborate on the same code. You are also allowed to work on your code with any professors or tutors at the Student Success Center. Outside of those people, discussions of the programming assignments should be limited to high-level discussions without looking at each others' code. 
 - Projects and labs turned in late occur a penalty of 10% per day, up to 3 days late. 
-For example, a project turned in two days late that would normally have been a 90% submission would be worth 72% (90% * 80% for two days late)
-In general, projects and labs turned in more than 3 days late will not receive credit.  
-I do count weekend days individually.
-Life happens, if you have extenuating circumstances, please talk with me!
-- There will be a number of in-class activities graded throughout the semester.  They will be unannounced and to receive credit you must be in class.  You are allowed to miss one in-class activity.  If you attend the Success Center for at least 10 unique weeks during the semester, you are allowed to miss one additional activity (you must check-in and stay for a minimum of 30 minutes).
-- The instructor reserves the right to modify course policies, the course calendar, and due dates with sufficient notice via email and in-class announcements.
+For example, a project turned in two days late that would normally have been a 90% submission would be worth 72% (90% * 80% for two days late). In general, projects and labs turned in more than 3 days late will not receive credit. I do count weekend days individually. Life happens, if you have extenuating circumstances, please talk with me!
+- The instructor reserves the right to modify course policies, the course calendar, and due dates with sufficient notice via email and lecture announcements.
 
 ## Grading
 
