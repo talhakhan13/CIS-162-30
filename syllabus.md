@@ -58,7 +58,8 @@ Lab Assigments, course projects, and the lab exam, will be posted and completed 
 
 ## Programming Language and IDE
 
-This courses uses [Python](https://www.python.org/downloads/).  We use [VS Code](https://code.visualstudio.com/) as the free development tool.
+This courses uses [Python](https://www.python.org/downloads/).  We use [VS Code](https://code.visualstudio.com/) as the free development tool. The first lab will help you install all the necessary software on your personal laptop. 
+
 
 ## Textbooks / Resources
 
@@ -66,39 +67,43 @@ In order to keep costs low, we will be using a variety of free online resources 
 
 Our main e-textbook is “Python Crash Course, 3rd Edition” by Eric Matthes.  It is available for free through our library at the following link: https://learning.oreilly.com/library/view/python-crash-course/9781098156664.  Choose the option to log in with your institution, enter “Grand Valley State University” and then use your student email login.
 
-## Lab Activities
+## Lab Activities (18%)
 
 The labs for this class are going to be held online in an synchronus manner, every Tuesday 4PM - 5:50PM. You can attend the lab sessions if you need help with anything. Think of these as extra office hours. You will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
 
 
-## In Class Activities
+## In Class Activities (10%)
 In class activities will be posted on Blackboard as discussions. You must participate in order to receive credit.
 
-## Programming Projects
+## Programming Projects (18%)
 
 Projects will also be posted on PrairieLearn. Projects are completed on your own time outside of class. The three projects increase in complexity as your abilities improve.  You will need to start early and budget enough time to complete the projects. 
 
 While a certain amount of consultation between students working on a project is encouraged, the work you submit must be your own. Do not create a difficult situation by representing someone else's work as your own.  Make sure you cite your resources. For more information, consult the [Student Code](https://www.gvsu.edu/policies/category.htm?categoryId=2D0C8EF7-9959-9B01-959C403E725313F3), and the [College of Computing Guidelines for Academic Honesty](https://www.gvsu.edu/computing/academic-honesty-30.htm).
 
 
-## Midterm Exams
+## Midterm Exams (13% + 13%)
 
 You will complete two midterm exams, online asynchronously, that will be posted on Blackboard. These exams are designed to assess your understanding of key concepts and your ability to apply problem-solving skills. Each exam will be available within a specified time window, and you must complete it by the posted deadline.
 
-## Lab Exam
+## Lab Exam (13%)
 
 You will complete a lab exam towards the end of the term on PrairieLearn.  This is your opportunity to demonstrate your abilities working alone at a computer during the regularly scheduled lab session.  The lab exam is open notes and open book.
 
 
-## Final Exam
+## Final Exam (15%)
 
 Similar to the midterm exams, you will have to complete a final exam, online asynchronously, that will be posted on Blackboard. You must complete and submit the exam within a specified time window to receive credit.
 
 ## Course Policies
 
-- You must earn a combined average of at least 60% between the midterm exams, lab exam and final exam to pass the course.
-- All programming projects, unless otherwise specified by the instructor, are to be completed individually. Students are encouraged to work with each other for general help only.
-- Projects and labs turned in late occur a penalty of 10% per day, up to 3 days late.  In general, projects and labs turned in more than 3 days late will not receive credit.  Life happens, if you have extenuating circumstances, please talk with me.  
+- Most computing majors require you to take CIS 163 to advance in the degree. To take CIS 163, you must pass CIS 162 with a C grade or better. In CIS 162, you must earn a combined average of at least 60% between the midterm exams, lab exam and final exam to earn a C in the course. Averaging below a 60% on the exams means that your final grade cannot be higher than a C-. 
+- You are allowed (and encouraged) to work with a partner on the labs and projects. When working with a partner, you are allowed to actively collaborate on the same code. You are also allowed to work on your code with any professors or tutors at the Student Success Center. Outside of those people, discussions of the programming assignments should be limited to high-level discussions without looking at each others' code. 
+- Projects and labs turned in late occur a penalty of 10% per day, up to 3 days late. 
+For example, a project turned in two days late that would normally have been a 90% submission would be worth 72% (90% * 80% for two days late)
+In general, projects and labs turned in more than 3 days late will not receive credit.  
+I do count weekend days individually.
+Life happens, if you have extenuating circumstances, please talk with me!
 - There will be a number of in-class activities graded throughout the semester.  They will be unannounced and to receive credit you must be in class.  You are allowed to miss one in-class activity.  If you attend the Success Center for at least 10 unique weeks during the semester, you are allowed to miss one additional activity (you must check-in and stay for a minimum of 30 minutes).
 - The instructor reserves the right to modify course policies, the course calendar, and due dates with sufficient notice via email and in-class announcements.
 
