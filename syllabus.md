@@ -13,9 +13,9 @@ Office Hours: Wednesday 4PM - 5PM or by appointment (Zoom link posted on Blackbo
 
 ## Class Information
 
-Lecture Meeting Times: Online asynchronus (Will be uploaded to Blackboard every week)
+Lectures : Online asynchronus (Will be uploaded to Blackboard every week)
 
-Lab Meeting Times: Tuesday 4PM - 5:50PM Online Synchronus (Zoom Link Posted on BlackBoard)
+Lab Sessions: Tuesday 4PM - 5:50PM Online Synchronus (Zoom Link Posted on BlackBoard)
 
 
 ## Disclaimer
@@ -54,7 +54,7 @@ After completing this course, students should be able to:
 
 Lecture vidoes and videos, assignments, grades, links, and announcements will be posted to Blackboard.  
 
-Lab Assigments, course projects,  will be posted and completed on PrairieLearn. It is your responsibility to stay informed.
+Lab Assigments, course projects, and the lab exam, will be posted and completed on PrairieLearn (https://us.prairielearn.com). It is your responsibility to stay informed.
 
 ## Programming Language and IDE
 
@@ -68,7 +68,11 @@ Our main e-textbook is “Python Crash Course, 3rd Edition” by Eric Matthes.  
 
 ## Lab Activities
 
-The labs for this class are going to be held online in a synchronus manner. Instead of meeting in a physical lab each week, you will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
+The labs for this class are going to be held online in an synchronus manner, every Tuesday 4PM - 5:50PM. You can attend the lab sessions if you need help with anything. Think of these as extra office hours. You will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
+
+
+## In Class Activities
+In class activities will be posted on Blackboard as discussions. You must participate in order to receive credit.
 
 ## Programming Projects
 
