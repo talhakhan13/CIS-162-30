@@ -9,8 +9,8 @@ As much as possible, we try to stick to this schedule. However, if your class is
 | 1    | Jan 12   | Introduction <br> What is a computer? <br> Critical Thinking / Algorithms |                                        |Variables, Ch. 1 & Ch. 2                                      |
 | 2    | Jan 19   | **No Class (MLK Day)** <br> Variables / Print Statements / What is a Program? |                                    | Strings, Ch. 2 and Numbers, Ch. 2                              |
 | 3    | Jan 26   | Variables / Types / Operators / String Variables                         |                                         | Rest of Ch. 2                                                  |
-| 4    | Feb 2    | Conditionals                                                            |                                          | A Simple Example – if Statements, Ch. 5                       |
-| 5    | Feb 9    | Functions                                                               | **Project 1 Due Friday**                 | Defining a Function – Return Values, Ch. 8                    |
+| 4    | Feb 2    | Functions                                                            |                                          | A Simple Example – if Statements, Ch. 5                       |
+| 5    | Feb 9    | Conditionals                                                               | **Project 1 Due Friday**                 | Defining a Function – Return Values, Ch. 8                    |
 | 6    | Feb 16   | Loops                                                                   | **Midterm #1**                           | How the input() Function Works – Introducing Loops, Ch. 7     |
 | 7    | Feb 23   | Lists                                                                   | 						                   | All sections, Ch. 3                                           |
 | 8    | Mar 2    | Debugging and Dictionaries                                              |                                          | A Simple Dictionary – Looping Through a Dictionary, Ch. 6     |
